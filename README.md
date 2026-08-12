@@ -43,7 +43,7 @@ To simplify the installation process of the **EDA-Q** tool, we provide a pre-con
 2. **Clone project warehouse**  
    Use Git to clone **EDA-Q** s project repository locally:
    ```bash+
-   git clone https://github.com/Tianyan-QEDA/EDA-Q.git
+   git clone https://github.com/Unity-Billal-mesloub/EDA-Q.git
    cd <EDA-Q Project directory>
    ```
 
@@ -83,25 +83,7 @@ conda run -n pyoccenv python -m compileall api/design.py api/pdk.py pdk/core/*.p
 ## Ai Assistant
 ![alt text](./test/img/ai_assistant.png)
 ## Key Project Leaders
-
-[@Tiancaizhi](Tiancaizhi.github.io)
-[@XiaohanEating](XiaohanEating.github.io)
-[@BeautyGao](BeautyGao.github.io)
-[@aknbg1thub](aknbg1thub.github.io)
-[@ccccl-p](ccccl-p.github.io)
-[@Celester7](Celester7.github.io)
-[@Yuanbenzheng](Yuanbenzheng.github.io)
-[@ZhaoBo-Snake](https://github.com/ZhaoBo-Snake)
-[@Pr0-s](https://github.com/Pr0-s)
-[@Ha-ha-123456](https://github.com/Ha-ha-123456)
-[@Sally-Star-One](https://github.com/Sally-Star-One)
-[@wxwrlr](https://github.com/wxwrlr)
-[@suninwinter921](https://github.com/suninwinter921)
-[@meisen0103 ](https://github.com/meisen0103 )
-[@PengDauan](https://github.com/PengDauan)
-[@OriginQ](https://github.com/OriginQ)
-[@godoverhead](https://github.com/godoverhead)
-[@luantian0417](https://github.com/luantian0417)
+[@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 
 ## Contribution Guide
 
@@ -113,16 +95,5 @@ Submit a PR (https://github.com/Q-transmon-xmon/EDA-Q/pulls) request, and I will
 
 Thanks to all the contributors.
 
-[@Institute of Physics, Chinese Academy of Sciences]() <br>[@CIQTEK Co.,Ltd]() <br>
-[@Shenzhen International Quantum Institute]() <br>
-[@Zhejiang University]() <br>
-[@National Supercomputing Center in Zhengzhou]() <br>
-[@ACIE Lab]()<br>
-[@Nanjing University]()<br>
-[@Zhengzhou University]()<br>[@Origin Quantum]()
-[@China Academy of Electronics and Information Technology]()
-
-
-
-
+[@Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
 
